@@ -1,0 +1,11 @@
+Rect to Polar
+r = SqrRoot(x^2 + y^2)
+Th = ATan2(x, y)
+
+Polar to Rect
+x = r * Cos(th)
+y = r * Sin(th)
+
+// Home work
+
+Make a Solarsystem (shaders and obiting scripts)
