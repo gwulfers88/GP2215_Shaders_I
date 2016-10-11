@@ -1,0 +1,5 @@
+Homework:
+
+Make a shader that is interactive.
+Modify the burn shader to burn at a location of where ever you clicked on the plane/quad.
+using one image offset the image for burn to where ever you clicked.
